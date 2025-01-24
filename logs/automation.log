@@ -1,8 +1,0 @@
-2025-01-23 06:54:15 DEBUG TestNG:82 - suiteXmlPath: "D:\Selenium\OpenCartV121\Master.xml"
-2025-01-23 06:54:21 INFO  TC001_AccountRegistrationPage:17 - ***Account Button Clicked Successfully***
-2025-01-23 06:54:21 INFO  TC001_AccountRegistrationPage:19 - ***Register Button Clicked Successfully***
-2025-01-23 06:54:21 INFO  TC001_AccountRegistrationPage:21 - ***Entering Customer Details***
-2025-01-23 06:54:24 INFO  TC002_LoginPage:16 - *** TC002 execution started ***
-2025-01-23 06:54:25 INFO  TC002_LoginPage:20 - ** Login Page Opened Successfully **
-2025-01-23 06:54:26 INFO  TC002_LoginPage:27 - ** My Account Page Opened Successfully **
-2025-01-23 06:54:26 INFO  TC002_LoginPage:36 - *** Finished TC002 Execution ***
